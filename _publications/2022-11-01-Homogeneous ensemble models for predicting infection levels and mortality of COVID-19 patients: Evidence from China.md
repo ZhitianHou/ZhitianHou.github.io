@@ -1,7 +1,7 @@
 ---
 title: "Homogeneous ensemble models for predicting infection levels and mortality of COVID-19 patients: Evidence from China"
 collection: publications
-permalink: /publication/2022-11-01-Homogeneous ensemble models for predicting infection levels and mortality of COVID-19 patients: Evidence from China
+permalink: 
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2022-11
 venue: 'Digital Health'
