@@ -5,7 +5,7 @@ permalink:
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2022-11
 venue: 'Digital Health'
-paperurl: '[http://academicpages.github.io/files/paper3.pdf](https://journals.sagepub.com/doi/full/10.1177/20552076221133692)'
+paperurl: '[https://journals.sagepub.com/doi/full/10.1177/20552076221133692](https://journals.sagepub.com/doi/full/10.1177/20552076221133692)'
 citation: '@article{wang2022homogeneous,
   title={Homogeneous ensemble models for predicting infection levels and mortality of COVID-19 patients: Evidence from China},
   author={Wang, Jiafeng and Zhou, Xianlong and Hou, Zhitian and Xu, Xiaoya and Zhao, Yueyue and Chen, Shanshan and Zhang, Jun and Shao, Lina and Yan, Rong and Wang, Mingshan and others},
