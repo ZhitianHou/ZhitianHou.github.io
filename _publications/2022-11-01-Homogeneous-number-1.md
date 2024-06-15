@@ -3,7 +3,7 @@ title: "Homogeneous ensemble models for predicting infection levels and mortalit
 collection: publications
 permalink: /publication/2022-11-01-Homogeneous-number-1
 excerpt: 'This paper is about fixing template issue #693.'
-date: 2022-11
+date: 2022-11-01
 venue: 'Digital Health'
 paperurl: '[https://journals.sagepub.com/doi/full/10.1177/20552076221133692](https://journals.sagepub.com/doi/full/10.1177/20552076221133692)'
 citation: '@article{wang2022homogeneous,
